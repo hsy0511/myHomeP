@@ -1,4 +1,6 @@
 # myHomeP
+# 출저 나무위키 피파온라인4
+https://namu.wiki/w/%ED%94%BC%ED%8C%8C%20%EC%98%A8%EB%9D%BC%EC%9D%B8%204
 # 홈페이지 만들기
 ![homeP3](https://user-images.githubusercontent.com/104752580/176815730-16051e88-d8d4-4969-a9a5-fdf194f58046.JPG)
 
@@ -38,6 +40,19 @@ start 함수로 코드를 실행하게 했습니다.
 slide 함수로 이미지가 0번째부터 5번째까지 img를 순서대로 반복시키는 코드를 만들어 줬습니다.
 
 # 추가 html
+![homeP8](https://user-images.githubusercontent.com/104752580/176826082-8b54b389-024b-4d46-951a-67d56024709e.JPG)
+![homeP9](https://user-images.githubusercontent.com/104752580/176826088-910787c5-7bcc-447b-a1a9-99167cce4348.JPG)
+
+다운로드.html에는 다운로드를 받을 수 있는 버튼을 만들어 버튼을 클릭하면 다운로드가 되었습니다. 홈으로 돌아가 주세요 라는 메세지가 나오게 만들었고,
+홈으로 돌아가기 글씨를 홈페이지로 돌아갈 수 있는 링크를 걸었습니다.
+
+로그인.html에는 id와 password를 입력하는 로그인 창을 만든후 확인을 누르면 로그인이 되었습니다. 홈으로 돌아가 주세요 라는 메세지가 나오게 만들었고,
+홈으로 돌아가기 링크를 걸었습니다.
+# 실행화면
+![homeP10](https://user-images.githubusercontent.com/104752580/176826926-e9650e4e-79a4-47f6-81c9-3a2c99c4a87d.JPG)
+![homeP11](https://user-images.githubusercontent.com/104752580/176826931-43c96dd6-b2f4-49bc-b215-9b4112c0d5cc.JPG)
+![homeP12](https://user-images.githubusercontent.com/104752580/176826933-390a86cb-fee7-4e4a-a1bd-d86f2bf302d1.JPG)
+
 
 
 
